@@ -47,7 +47,13 @@ How can you use the commands git log and git diff to view the history of files?
 How might using version control make you more confident to make changes that
 could break something?
 
-    Fill in your answer here
+    I remembered when I was working on my first 100+ lines of code project,
+    I always hesitate to make radical changes simply because adding experimenting
+    code into the current perfectly working one is hard to revert whenever a bug
+    had been discovered. Also, it's always painful to track changes easily and
+    efficiently, so I would rather do only incremental updates. But now, with the
+    help of Git, I can do bold experiments on my code and I can easily switch
+    between versions and checkout the differences and improvements! 
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
