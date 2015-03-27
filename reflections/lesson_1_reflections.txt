@@ -35,13 +35,14 @@ files in one commit, while others, like Google Docs, treat each file separately?
     Git is specifically designed to do version control on code files/projects,
     so being able to do multiple-file commit is a must. For example, programmers
     may have a header file on A file and main() on B file.
-    On the other hand, things like Google Docs is designed for editing and tracking 
+    On the other hand, things like Google Docs is designed for editing and tracking
     word documents, which usually doesn't require tracking multiple files at a
     time, and usually it'll be pointless to do so.
 
 How can you use the commands git log and git diff to view the history of files?
 
-    Fill in your answer here
+    Open a terminal and type either git log commit number or git diff commit 1
+    commit 2.
 
 How might using version control make you more confident to make changes that
 could break something?
