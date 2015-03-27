@@ -13,13 +13,21 @@ efficient programmer in the long term?
     entire project. For example, if I made a bug fix, and later on I discovered
     yet another bug that may be associated with the previous bug that I thought
     I have already fixed, with the help of file history, I can easily trace back
-    to that point of time and check if I had done all the work correctly or not. 
+    to that point of time and check if I had done all the work correctly or not.
 
 What do you think are the pros and cons of manually choosing when to create a
 commit, like you do in Git, vs having versions automatically saved, like Google
 docs does?
 
-    Fill in your answer here
+    Pros of manually choosing when to commits
+      - Grouping of logical changes
+      - being able to add messages to each commits
+      - easier to go back to a specific version that is exactly what you want
+      - saves disk space
+
+    Cons
+      - Requires additional steps and time
+      - May forget to make commit sometimes
 
 Why do you think some version control systems, like Git, allow saving multiple
 files in one commit, while others, like Google Docs, treat each file separately?
