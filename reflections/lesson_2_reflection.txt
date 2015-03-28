@@ -31,6 +31,9 @@ organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 
+  Long story short, now I am finally able to interpret the meaning of the
+  DHS and branching concepts.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
