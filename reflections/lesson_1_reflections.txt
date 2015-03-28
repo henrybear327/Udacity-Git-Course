@@ -53,8 +53,9 @@ could break something?
     had been discovered. Also, it's always painful to track changes easily and
     efficiently, so I would rather do only incremental updates. But now, with the
     help of Git, I can do bold experiments on my code and I can easily switch
-    between versions and checkout the differences and improvements! 
+    between versions and checkout the differences and improvements!
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-    Fill in your answer here
+    I would like to try Git for managing my term projects, where being able to make
+    bold experiments and without the fear of breaking the current code base.
