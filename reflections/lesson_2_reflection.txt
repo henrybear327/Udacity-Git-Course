@@ -5,6 +5,8 @@ What happens when you initialize a repository? Why do you need to do it?
   I will need this because it's git's lifeblood. Everything that git needs is
   in there.
 
+//added this blank line and then git add
+
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
