@@ -26,7 +26,8 @@ organized? How would branches help?
   brave to try everything that's new to me. I can be totally confident that
   if I messed up anything, I will always have a fallback version that easy to
   access. On the other hand, if things go well, I can merge those changes into
-  the master branch, thus, making my code much better. 
+  the master branch, thus, making my code much better.
+  Also, while perform bug fixes, the branch feature will come in handy, too.
 
 How do the diagrams help you visualize the branch structure?
 
