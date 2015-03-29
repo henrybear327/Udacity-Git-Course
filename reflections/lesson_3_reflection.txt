@@ -24,7 +24,9 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    It'll be easier to see what's actually going on at the remote branch, and
+    thus programmers can be aware of changes and merge them before the snowball
+    becomes bigger and bigger that's beyond their limit to merge.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
