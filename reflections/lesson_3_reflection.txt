@@ -1,7 +1,13 @@
 When would you want to use a remote repository rather than keeping all your work
 local?
 
-    Fill in your answer here
+    I would like to do so when I need to backup my code. I used to manually copy
+    and paste code onto the Github Gists, but it's very annoying doing it every
+    time, especially when the project is growing bigger and bigger(I can only
+    view diff, but can't write commit messages).
+
+    Also, when I need to switch working computers often, that's when I would like
+    to use a remote repo.
 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
