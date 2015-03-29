@@ -39,4 +39,6 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When experimenting with a new feature, or making some bug fixes, these are the
+    time that directly committing on master may result in a broken code base, where
+    there may not be one single easy fix. This is the time where branching kicks in.
